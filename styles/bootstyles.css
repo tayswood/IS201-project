@@ -1,0 +1,51 @@
+.Header{
+    height: 100px;
+    background-color: #b7c3c9;
+    color: #2076a8;
+    line-height: 100px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.otherpages{
+    height: 5px;
+    line-height: 10px;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    
+}
+h2{
+    font-size: 32px;
+}
+.Tableau{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #2076a8;
+    font-size: 30px;
+}
+.Footer{
+    height: 50px;
+    background-color: #2076a8;
+    color: #b7c3c9;
+    line-height: 50px;
+    font-size: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+.common{
+    text-align:left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+
+}
+
+}
